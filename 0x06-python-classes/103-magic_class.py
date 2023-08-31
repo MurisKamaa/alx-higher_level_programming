@@ -1,9 +1,9 @@
 #!/usr/bin/python3
-import math
 """This module defines the class MagicClass with methods:
     area: Calculates the area
     circumference: calculates the perimeter
 """
+import math
 
 
 class MagicClass:
