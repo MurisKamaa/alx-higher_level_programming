@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''This module defines a class square
-a function that includes a self parameter and 
+a function that includes a self parameter and
 a squaresize initialized at 0.
 '''
 
