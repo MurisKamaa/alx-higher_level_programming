@@ -1,9 +1,4 @@
 #!/usr/bin/python3
-"""
-This module contains a class that inherits attr of a class list
-"""
-
-
 class MyList(list):
     """ Class that inherits the attributes references of class list
 
@@ -11,6 +6,7 @@ class MyList(list):
         list: class list
 
     """
+
 
     def print_sorted(self):
         """ Method that prints the sorted list """
