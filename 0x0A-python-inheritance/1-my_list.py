@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+"""
+This module has a class that inherits attr of a class list
+"""
+
+
 class MyList(list):
     """ Class that inherits the attributes references of class list
 
